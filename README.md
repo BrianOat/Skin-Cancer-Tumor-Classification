@@ -44,7 +44,7 @@ pip install numpy==1.26.4 scikit-learn==1.2.2 pandas==1.5.3 tensorflow==2.18.0
 Execute the python file by typing the following command:
 
 ```bash
-python3 ochoa_brian_finaltermproj.py
+python3 finaltermproj.py
 ```
 
 Note that there may be Future Warnings, please ignore them as the models train and test. You will see the resulting table at the end. The Jupyter Notebook formats the table much nicer, I recommend checking that one out!
